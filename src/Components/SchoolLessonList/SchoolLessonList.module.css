@@ -1,0 +1,26 @@
+.total-camp-lessons {
+    display: flex;
+    align-items: baseline;
+    margin-left: 12%;
+}
+
+.lessons-count {
+    display: inline-block;
+    opacity: 1 !important;
+    font-size: 32px;
+    font-weight: bold;
+    margin-bottom: 0;
+}
+
+.lessons {
+    display: inline-block;
+    margin-left: 5px;
+    opacity: .6;
+    font-size: 22px;
+    margin-bottom: 0;
+}
+
+.camp-name {
+    opacity: .6;
+    margin-top: 0;
+}

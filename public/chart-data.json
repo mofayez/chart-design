@@ -1,0 +1,2402 @@
+[
+	{
+		"id": "620af3a468e4b2e765e7c9e7",
+		"month": "Feb",
+		"camp": "Omaka",
+		"country": "Egypt",
+		"school": "Burke High School",
+		"lessons": 140
+	},
+	{
+		"id": "620af3a4b8c8ca0afd385a9c",
+		"month": "Apr",
+		"camp": "Kakuma",
+		"country": "Egypt",
+		"school": "Kakuma Secondary",
+		"lessons": 170
+	},
+	{
+		"id": "620af3a4a812c63fb1945ac9",
+		"month": "Oct",
+		"camp": "Kakuma",
+		"country": "Egypt",
+		"school": "Jolie Boarding School",
+		"lessons": 215
+	},
+	{
+		"id": "620af3a4288ab1f9ee2f56d0",
+		"month": "Mar",
+		"camp": "Lemaci",
+		"country": "Tunisia",
+		"school": "Columbia Law School",
+		"lessons": 50
+	},
+	{
+		"id": "620af3a47c41df4c2f41bc4d",
+		"month": "Sep",
+		"camp": "Kakuma",
+		"country": "Tunisia",
+		"school": "Jolie Boarding School",
+		"lessons": 200
+	},
+	{
+		"id": "620af3a4a51109b48e12019d",
+		"month": "Sep",
+		"camp": "Omaka",
+		"country": "Tanzania",
+		"school": "Te Kupenga Preschool",
+		"lessons": 60
+	},
+	{
+		"id": "620af3a4479c4393af4976b8",
+		"month": "Apr",
+		"camp": "Omaka",
+		"country": "Kenya",
+		"school": "Burke High School",
+		"lessons": 115
+	},
+	{
+		"id": "620af3a46f3ac87dfd0943bd",
+		"month": "Mar",
+		"camp": "Kakuma",
+		"country": "Egypt",
+		"school": "Morneau Shepell",
+		"lessons": 10
+	},
+	{
+		"id": "620af3a4830bfa44187c6afb",
+		"month": "Jan",
+		"camp": "Lemaci",
+		"country": "Kenya",
+		"school": "Management School ESSCA",
+		"lessons": 135
+	},
+	{
+		"id": "620af3a4c873dd5edf0dddfe",
+		"month": "Mar",
+		"camp": "Sebuna",
+		"country": "Kenya",
+		"school": "Associazione Nautica Sebina",
+		"lessons": 180
+	},
+	{
+		"id": "620af3a4cb73e0381d1e43c6",
+		"month": "Feb",
+		"camp": "Omaka",
+		"country": "Tunisia",
+		"school": "Omaka Secondary",
+		"lessons": 115
+	},
+	{
+		"id": "620af3a4d864868bfe050f45",
+		"month": "Jul",
+		"camp": "Lemaci",
+		"country": "Tanzania",
+		"school": "ISCAE",
+		"lessons": 225
+	},
+	{
+		"id": "620af3a4b01d6023d8ac9844",
+		"month": "Aug",
+		"camp": "Kakuma",
+		"country": "Kenya",
+		"school": "Jolie Boarding School",
+		"lessons": 85
+	},
+	{
+		"id": "620af3a4a08d61255c5eed31",
+		"month": "Dec",
+		"camp": "Lemaci",
+		"country": "Tunisia",
+		"school": "ISCAE",
+		"lessons": 185
+	},
+	{
+		"id": "620af3a43e54dbb82a9c654e",
+		"month": "Oct",
+		"camp": "Omaka",
+		"country": "Kenya",
+		"school": "Te Kupenga Preschool",
+		"lessons": 20
+	},
+	{
+		"id": "620af3a4d65eb69ef193f6b3",
+		"month": "Jul",
+		"camp": "Lemaci",
+		"country": "Tanzania",
+		"school": "Jonathan Law High School",
+		"lessons": 155
+	},
+	{
+		"id": "620af3a49230d743da891c4a",
+		"month": "May",
+		"camp": "Kakuma",
+		"country": "Tunisia",
+		"school": "Greenlight",
+		"lessons": 200
+	},
+	{
+		"id": "620af3a4806090523c443023",
+		"month": "May",
+		"camp": "Sebuna",
+		"country": "Kenya",
+		"school": "Sebun CLASSIC",
+		"lessons": 35
+	},
+	{
+		"id": "620af3a43f213a45d4b03e67",
+		"month": "Dec",
+		"camp": "Kakuma",
+		"country": "Egypt",
+		"school": "Greenlight",
+		"lessons": 210
+	},
+	{
+		"id": "620af3a487e139db17b63d81",
+		"month": "Dec",
+		"camp": "Lemaci",
+		"country": "Egypt",
+		"school": "Jonathan Law High School",
+		"lessons": 125
+	},
+	{
+		"id": "620af3a4d3553b77c73ec693",
+		"month": "Aug",
+		"camp": "Sebuna",
+		"country": "Tunisia",
+		"school": "Kebalepile High School",
+		"lessons": 165
+	},
+	{
+		"id": "620af3a478eda245eaa94c53",
+		"month": "Apr",
+		"camp": "Kakuma",
+		"country": "Egypt",
+		"school": "Greenlight",
+		"lessons": 20
+	},
+	{
+		"id": "620af3a40cc037c3899c6292",
+		"month": "Jun",
+		"camp": "Omaka",
+		"country": "Egypt",
+		"school": "Burke High School",
+		"lessons": 100
+	},
+	{
+		"id": "620af3a47948dc16661810c4",
+		"month": "Apr",
+		"camp": "Kakuma",
+		"country": "Tanzania",
+		"school": "Kakuma Secondary",
+		"lessons": 205
+	},
+	{
+		"id": "620af3a478d1b8d1719bc822",
+		"month": "Aug",
+		"camp": "Omaka",
+		"country": "Egypt",
+		"school": "Burke High School",
+		"lessons": 110
+	},
+	{
+		"id": "620af3a444246ca5dc098711",
+		"month": "Aug",
+		"camp": "Lemaci",
+		"country": "Tunisia",
+		"school": "Management School ESSCA",
+		"lessons": 225
+	},
+	{
+		"id": "620af3a4407a5cf84b02f54b",
+		"month": "Apr",
+		"camp": "Omaka",
+		"country": "Egypt",
+		"school": "Burke High School",
+		"lessons": 15
+	},
+	{
+		"id": "620af3a4b3f4b7c068b4ddb9",
+		"month": "Sep",
+		"camp": "Omaka",
+		"country": "Tanzania",
+		"school": "Burke High School",
+		"lessons": 80
+	},
+	{
+		"id": "620af3a4f9028de6f33675b9",
+		"month": "Sep",
+		"camp": "Kakuma",
+		"country": "Tanzania",
+		"school": "Greenlight",
+		"lessons": 45
+	},
+	{
+		"id": "620af3a40af69b9b483bddab",
+		"month": "Sep",
+		"camp": "Lemaci",
+		"country": "Tunisia",
+		"school": "ISCAE",
+		"lessons": 15
+	},
+	{
+		"id": "620af3a4d6c1c5596a41b646",
+		"month": "Nov",
+		"camp": "Kakuma",
+		"country": "Tunisia",
+		"school": "Morneau Shepell",
+		"lessons": 195
+	},
+	{
+		"id": "620af3a4ce0ee8dda424be44",
+		"month": "Sep",
+		"camp": "Lemaci",
+		"country": "Tanzania",
+		"school": "Management School ESSCA",
+		"lessons": 85
+	},
+	{
+		"id": "620af3a423fca05d85d1e0df",
+		"month": "May",
+		"camp": "Omaka",
+		"country": "Kenya",
+		"school": "Rapaura School",
+		"lessons": 60
+	},
+	{
+		"id": "620af3a49d624244edf9af3c",
+		"month": "Aug",
+		"camp": "Omaka",
+		"country": "Egypt",
+		"school": "Burke High School",
+		"lessons": 235
+	},
+	{
+		"id": "620af3a47c245d12a03b2304",
+		"month": "Feb",
+		"camp": "Sebuna",
+		"country": "Kenya",
+		"school": "Associazione Nautica Sebina",
+		"lessons": 130
+	},
+	{
+		"id": "620af3a4dd242dd59d3dfc46",
+		"month": "Apr",
+		"camp": "Lemaci",
+		"country": "Tanzania",
+		"school": "ISCAE",
+		"lessons": 45
+	},
+	{
+		"id": "620af3a484cd39e6e583a848",
+		"month": "Nov",
+		"camp": "Kakuma",
+		"country": "Tanzania",
+		"school": "Morneau Shepell",
+		"lessons": 210
+	},
+	{
+		"id": "620af3a42e07e384cffed908",
+		"month": "Jun",
+		"camp": "Kakuma",
+		"country": "Kenya",
+		"school": "Kakuma Secondary",
+		"lessons": 75
+	},
+	{
+		"id": "620af3a4e2c9c3f2a1b9ab10",
+		"month": "Aug",
+		"camp": "Lemaci",
+		"country": "Tanzania",
+		"school": "Columbia Law School",
+		"lessons": 110
+	},
+	{
+		"id": "620af3a41a614f622733b9b7",
+		"month": "Nov",
+		"camp": "Lemaci",
+		"country": "Tunisia",
+		"school": "Columbia Law School",
+		"lessons": 70
+	},
+	{
+		"id": "620af3a486fdaf7ca546dea3",
+		"month": "Mar",
+		"camp": "Sebuna",
+		"country": "Tunisia",
+		"school": "City Parents' School",
+		"lessons": 65
+	},
+	{
+		"id": "620af3a44427220620f4fb9c",
+		"month": "Dec",
+		"camp": "Omaka",
+		"country": "Kenya",
+		"school": "Omaka Secondary",
+		"lessons": 205
+	},
+	{
+		"id": "620af3a4e11995175f60d82c",
+		"month": "Sep",
+		"camp": "Kakuma",
+		"country": "Tanzania",
+		"school": "Morneau Shepell",
+		"lessons": 10
+	},
+	{
+		"id": "620af3a4497b29014faba179",
+		"month": "Aug",
+		"camp": "Sebuna",
+		"country": "Tunisia",
+		"school": "Sebun CLASSIC",
+		"lessons": 100
+	},
+	{
+		"id": "620af3a4c8603aaa8d9ce2c2",
+		"month": "Sep",
+		"camp": "Omaka",
+		"country": "Tunisia",
+		"school": "Rapaura School",
+		"lessons": 90
+	},
+	{
+		"id": "620af3a477552e8b8f24c13a",
+		"month": "Oct",
+		"camp": "Omaka",
+		"country": "Tanzania",
+		"school": "Te Kupenga Preschool",
+		"lessons": 125
+	},
+	{
+		"id": "620af3a4f2ad971e935db5bd",
+		"month": "Feb",
+		"camp": "Kakuma",
+		"country": "Tanzania",
+		"school": "Greenlight",
+		"lessons": 215
+	},
+	{
+		"id": "620af3a44d947973053cbf0d",
+		"month": "Oct",
+		"camp": "Sebuna",
+		"country": "Tunisia",
+		"school": "Sebun CLASSIC",
+		"lessons": 155
+	},
+	{
+		"id": "620af3a4a5d456539359d800",
+		"month": "Sep",
+		"camp": "Sebuna",
+		"country": "Egypt",
+		"school": "Kebalepile High School",
+		"lessons": 110
+	},
+	{
+		"id": "620af3a4634b6e99d523c924",
+		"month": "Apr",
+		"camp": "Omaka",
+		"country": "Egypt",
+		"school": "Rapaura School",
+		"lessons": 95
+	},
+	{
+		"id": "620af3a4d11487afb521d99b",
+		"month": "Sep",
+		"camp": "Sebuna",
+		"country": "Tunisia",
+		"school": "Kebalepile High School",
+		"lessons": 35
+	},
+	{
+		"id": "620af3a46b7f3e3211fa9a96",
+		"month": "Sep",
+		"camp": "Kakuma",
+		"country": "Egypt",
+		"school": "Kakuma Secondary",
+		"lessons": 195
+	},
+	{
+		"id": "620af3a48791aff8da67b85f",
+		"month": "Apr",
+		"camp": "Kakuma",
+		"country": "Tunisia",
+		"school": "Greenlight",
+		"lessons": 80
+	},
+	{
+		"id": "620af3a477b3f63f006f4f41",
+		"month": "Jan",
+		"camp": "Sebuna",
+		"country": "Kenya",
+		"school": "Associazione Nautica Sebina",
+		"lessons": 55
+	},
+	{
+		"id": "620af3a49a0d26a23ee40d49",
+		"month": "Oct",
+		"camp": "Omaka",
+		"country": "Tanzania",
+		"school": "Te Kupenga Preschool",
+		"lessons": 210
+	},
+	{
+		"id": "620af3a47ef4effad67872c3",
+		"month": "Aug",
+		"camp": "Kakuma",
+		"country": "Tanzania",
+		"school": "Morneau Shepell",
+		"lessons": 115
+	},
+	{
+		"id": "620af3a43b668117dbb080aa",
+		"month": "Jul",
+		"camp": "Lemaci",
+		"country": "Tanzania",
+		"school": "Management School ESSCA",
+		"lessons": 180
+	},
+	{
+		"id": "620af3a4ee3f2c3c21056558",
+		"month": "May",
+		"camp": "Kakuma",
+		"country": "Egypt",
+		"school": "Jolie Boarding School",
+		"lessons": 150
+	},
+	{
+		"id": "620af3a4186cf873b5dae4b4",
+		"month": "Jan",
+		"camp": "Kakuma",
+		"country": "Tanzania",
+		"school": "Morneau Shepell",
+		"lessons": 35
+	},
+	{
+		"id": "620af3a43297ed7257dbaf32",
+		"month": "Sep",
+		"camp": "Omaka",
+		"country": "Kenya",
+		"school": "Te Kupenga Preschool",
+		"lessons": 210
+	},
+	{
+		"id": "620af3a407453c5315ef3a24",
+		"month": "Aug",
+		"camp": "Kakuma",
+		"country": "Kenya",
+		"school": "Jolie Boarding School",
+		"lessons": 30
+	},
+	{
+		"id": "620af3a487199954ad3c75c9",
+		"month": "Jun",
+		"camp": "Lemaci",
+		"country": "Egypt",
+		"school": "Columbia Law School",
+		"lessons": 155
+	},
+	{
+		"id": "620af3a40c113e09766c8673",
+		"month": "Jan",
+		"camp": "Lemaci",
+		"country": "Kenya",
+		"school": "Columbia Law School",
+		"lessons": 70
+	},
+	{
+		"id": "620af3a43b75eff4b56539f3",
+		"month": "Sep",
+		"camp": "Lemaci",
+		"country": "Tunisia",
+		"school": "Management School ESSCA",
+		"lessons": 180
+	},
+	{
+		"id": "620af3a4ee42510ffcd7d787",
+		"month": "Feb",
+		"camp": "Omaka",
+		"country": "Tanzania",
+		"school": "Te Kupenga Preschool",
+		"lessons": 250
+	},
+	{
+		"id": "620af3a42134c9fb4231a1ac",
+		"month": "Jan",
+		"camp": "Lemaci",
+		"country": "Tanzania",
+		"school": "Columbia Law School",
+		"lessons": 125
+	},
+	{
+		"id": "620af3a4ae7611ed1d2a81b7",
+		"month": "Apr",
+		"camp": "Lemaci",
+		"country": "Egypt",
+		"school": "Columbia Law School",
+		"lessons": 230
+	},
+	{
+		"id": "620af3a45b5a97849f478744",
+		"month": "Feb",
+		"camp": "Lemaci",
+		"country": "Kenya",
+		"school": "Jonathan Law High School",
+		"lessons": 165
+	},
+	{
+		"id": "620af3a44ae91407a3b9e8ef",
+		"month": "Dec",
+		"camp": "Omaka",
+		"country": "Kenya",
+		"school": "Rapaura School",
+		"lessons": 140
+	},
+	{
+		"id": "620af3a41dd6d579d040f567",
+		"month": "Nov",
+		"camp": "Omaka",
+		"country": "Tunisia",
+		"school": "Rapaura School",
+		"lessons": 100
+	},
+	{
+		"id": "620af3a48c2cc136961a10b9",
+		"month": "May",
+		"camp": "Kakuma",
+		"country": "Kenya",
+		"school": "Morneau Shepell",
+		"lessons": 130
+	},
+	{
+		"id": "620af3a43124f09719c29c29",
+		"month": "Aug",
+		"camp": "Lemaci",
+		"country": "Tanzania",
+		"school": "ISCAE",
+		"lessons": 70
+	},
+	{
+		"id": "620af3a4e464c4660fab6038",
+		"month": "Mar",
+		"camp": "Kakuma",
+		"country": "Egypt",
+		"school": "Greenlight",
+		"lessons": 245
+	},
+	{
+		"id": "620af3a441d47d674e26ab47",
+		"month": "May",
+		"camp": "Kakuma",
+		"country": "Tanzania",
+		"school": "Kakuma Secondary",
+		"lessons": 60
+	},
+	{
+		"id": "620af3a4b3e2bcfea9600576",
+		"month": "Jun",
+		"camp": "Lemaci",
+		"country": "Kenya",
+		"school": "Columbia Law School",
+		"lessons": 185
+	},
+	{
+		"id": "620af3a43e8e0fbd8f91b200",
+		"month": "Aug",
+		"camp": "Omaka",
+		"country": "Kenya",
+		"school": "Omaka Secondary",
+		"lessons": 135
+	},
+	{
+		"id": "620af3a4a7cf4c6b8a931ac5",
+		"month": "Jul",
+		"camp": "Kakuma",
+		"country": "Tunisia",
+		"school": "Greenlight",
+		"lessons": 230
+	},
+	{
+		"id": "620af3a40c42b189a21ec4db",
+		"month": "Jul",
+		"camp": "Lemaci",
+		"country": "Tunisia",
+		"school": "Management School ESSCA",
+		"lessons": 110
+	},
+	{
+		"id": "620af3a428bbd8d41bfe4fb0",
+		"month": "Jun",
+		"camp": "Kakuma",
+		"country": "Kenya",
+		"school": "Jolie Boarding School",
+		"lessons": 135
+	},
+	{
+		"id": "620af3a40c2090a933d10216",
+		"month": "Mar",
+		"camp": "Kakuma",
+		"country": "Egypt",
+		"school": "Morneau Shepell",
+		"lessons": 50
+	},
+	{
+		"id": "620af3a416289cd50d873d44",
+		"month": "Jul",
+		"camp": "Omaka",
+		"country": "Egypt",
+		"school": "Omaka Secondary",
+		"lessons": 140
+	},
+	{
+		"id": "620af3a4a3d1c2d154d03c0e",
+		"month": "Jul",
+		"camp": "Kakuma",
+		"country": "Kenya",
+		"school": "Morneau Shepell",
+		"lessons": 35
+	},
+	{
+		"id": "620af3a439eb6e02ff6df60f",
+		"month": "Feb",
+		"camp": "Omaka",
+		"country": "Tanzania",
+		"school": "Rapaura School",
+		"lessons": 100
+	},
+	{
+		"id": "620af3a4012bff60decf5111",
+		"month": "Feb",
+		"camp": "Kakuma",
+		"country": "Egypt",
+		"school": "Kakuma Secondary",
+		"lessons": 50
+	},
+	{
+		"id": "620af3a417583bf7bdb422f5",
+		"month": "Mar",
+		"camp": "Sebuna",
+		"country": "Egypt",
+		"school": "Kebalepile High School",
+		"lessons": 165
+	},
+	{
+		"id": "620af3a4ec34c7bd581da675",
+		"month": "Mar",
+		"camp": "Kakuma",
+		"country": "Tanzania",
+		"school": "Greenlight",
+		"lessons": 245
+	},
+	{
+		"id": "620af3a49004b8bedd68d163",
+		"month": "Feb",
+		"camp": "Kakuma",
+		"country": "Egypt",
+		"school": "Kakuma Secondary",
+		"lessons": 215
+	},
+	{
+		"id": "620af3a4be989e107735ea2b",
+		"month": "Jul",
+		"camp": "Sebuna",
+		"country": "Tunisia",
+		"school": "Associazione Nautica Sebina",
+		"lessons": 195
+	},
+	{
+		"id": "620af3a43d956524a30a5982",
+		"month": "Nov",
+		"camp": "Lemaci",
+		"country": "Egypt",
+		"school": "Management School ESSCA",
+		"lessons": 120
+	},
+	{
+		"id": "620af3a42d114d24a1dabeda",
+		"month": "Jul",
+		"camp": "Kakuma",
+		"country": "Kenya",
+		"school": "Greenlight",
+		"lessons": 165
+	},
+	{
+		"id": "620af3a4e140b1d496ac593c",
+		"month": "Jan",
+		"camp": "Omaka",
+		"country": "Tunisia",
+		"school": "Omaka Secondary",
+		"lessons": 20
+	},
+	{
+		"id": "620af3a4d519b350d0ed8069",
+		"month": "Oct",
+		"camp": "Lemaci",
+		"country": "Kenya",
+		"school": "ISCAE",
+		"lessons": 90
+	},
+	{
+		"id": "620af3a480dfa4986db38e7a",
+		"month": "Jun",
+		"camp": "Lemaci",
+		"country": "Tunisia",
+		"school": "Management School ESSCA",
+		"lessons": 25
+	},
+	{
+		"id": "620af3a41c560e610f3a273e",
+		"month": "Jul",
+		"camp": "Lemaci",
+		"country": "Egypt",
+		"school": "Jonathan Law High School",
+		"lessons": 200
+	},
+	{
+		"id": "620af3a46b1978b0671a21e2",
+		"month": "May",
+		"camp": "Kakuma",
+		"country": "Tunisia",
+		"school": "Jolie Boarding School",
+		"lessons": 175
+	},
+	{
+		"id": "620af3a40d192ea22eecb91d",
+		"month": "Oct",
+		"camp": "Kakuma",
+		"country": "Kenya",
+		"school": "Greenlight",
+		"lessons": 230
+	},
+	{
+		"id": "620af3a4fac65ebb93e9e2d9",
+		"month": "Mar",
+		"camp": "Lemaci",
+		"country": "Kenya",
+		"school": "Columbia Law School",
+		"lessons": 105
+	},
+	{
+		"id": "620af3a4a16135f1317f7ffd",
+		"month": "Nov",
+		"camp": "Omaka",
+		"country": "Tanzania",
+		"school": "Burke High School",
+		"lessons": 195
+	},
+	{
+		"id": "620af3a419baa00db3db3ff4",
+		"month": "Oct",
+		"camp": "Lemaci",
+		"country": "Kenya",
+		"school": "Management School ESSCA",
+		"lessons": 50
+	},
+	{
+		"id": "620af3a41bcf57ec4d40ae93",
+		"month": "Dec",
+		"camp": "Kakuma",
+		"country": "Egypt",
+		"school": "Greenlight",
+		"lessons": 235
+	},
+	{
+		"id": "620af3a4db5f7adec3fb1989",
+		"month": "Apr",
+		"camp": "Omaka",
+		"country": "Tanzania",
+		"school": "Rapaura School",
+		"lessons": 190
+	},
+	{
+		"id": "620af3a47f9f62585bc90bd9",
+		"month": "Sep",
+		"camp": "Lemaci",
+		"country": "Kenya",
+		"school": "Management School ESSCA",
+		"lessons": 235
+	},
+	{
+		"id": "620af3a487ffba30834f7390",
+		"month": "Jan",
+		"camp": "Lemaci",
+		"country": "Tanzania",
+		"school": "Columbia Law School",
+		"lessons": 50
+	},
+	{
+		"id": "620af3a41ecca83740bfd66f",
+		"month": "Jun",
+		"camp": "Kakuma",
+		"country": "Egypt",
+		"school": "Kakuma Secondary",
+		"lessons": 200
+	},
+	{
+		"id": "620af3a41cd8aa619b9f19b8",
+		"month": "Jul",
+		"camp": "Kakuma",
+		"country": "Tunisia",
+		"school": "Morneau Shepell",
+		"lessons": 125
+	},
+	{
+		"id": "620af3a4399076ed192894ac",
+		"month": "Jan",
+		"camp": "Lemaci",
+		"country": "Kenya",
+		"school": "Management School ESSCA",
+		"lessons": 60
+	},
+	{
+		"id": "620af3a4687f15837751b749",
+		"month": "Dec",
+		"camp": "Kakuma",
+		"country": "Kenya",
+		"school": "Jolie Boarding School",
+		"lessons": 135
+	},
+	{
+		"id": "620af3a4441302d67bc212d9",
+		"month": "Apr",
+		"camp": "Lemaci",
+		"country": "Tanzania",
+		"school": "Jonathan Law High School",
+		"lessons": 200
+	},
+	{
+		"id": "620af3a4f0aa2c8a8617eb86",
+		"month": "Nov",
+		"camp": "Sebuna",
+		"country": "Kenya",
+		"school": "Associazione Nautica Sebina",
+		"lessons": 200
+	},
+	{
+		"id": "620af3a4609aaefe5c85ac17",
+		"month": "May",
+		"camp": "Lemaci",
+		"country": "Tanzania",
+		"school": "Jonathan Law High School",
+		"lessons": 190
+	},
+	{
+		"id": "620af3a4f4325476bf3f50f1",
+		"month": "Dec",
+		"camp": "Kakuma",
+		"country": "Tanzania",
+		"school": "Kakuma Secondary",
+		"lessons": 110
+	},
+	{
+		"id": "620af3a431887e1d5b993e75",
+		"month": "Nov",
+		"camp": "Omaka",
+		"country": "Egypt",
+		"school": "Rapaura School",
+		"lessons": 75
+	},
+	{
+		"id": "620af3a458b0a809d04ebf02",
+		"month": "Mar",
+		"camp": "Lemaci",
+		"country": "Tanzania",
+		"school": "Jonathan Law High School",
+		"lessons": 210
+	},
+	{
+		"id": "620af3a454cc9a3452378a92",
+		"month": "Nov",
+		"camp": "Sebuna",
+		"country": "Egypt",
+		"school": "City Parents' School",
+		"lessons": 15
+	},
+	{
+		"id": "620af3a416163e64aeabc391",
+		"month": "Nov",
+		"camp": "Lemaci",
+		"country": "Kenya",
+		"school": "ISCAE",
+		"lessons": 70
+	},
+	{
+		"id": "620af3a4ce5b5c30da979ed9",
+		"month": "Aug",
+		"camp": "Omaka",
+		"country": "Egypt",
+		"school": "Rapaura School",
+		"lessons": 15
+	},
+	{
+		"id": "620af3a410568b507b8c689b",
+		"month": "Jun",
+		"camp": "Kakuma",
+		"country": "Egypt",
+		"school": "Jolie Boarding School",
+		"lessons": 70
+	},
+	{
+		"id": "620af3a436ef2b07ee9f5fa3",
+		"month": "Mar",
+		"camp": "Omaka",
+		"country": "Kenya",
+		"school": "Burke High School",
+		"lessons": 200
+	},
+	{
+		"id": "620af3a41cbec700f392ae14",
+		"month": "Oct",
+		"camp": "Omaka",
+		"country": "Tunisia",
+		"school": "Te Kupenga Preschool",
+		"lessons": 105
+	},
+	{
+		"id": "620af3a48f122bac7d7ec3a9",
+		"month": "Jul",
+		"camp": "Kakuma",
+		"country": "Tanzania",
+		"school": "Greenlight",
+		"lessons": 10
+	},
+	{
+		"id": "620af3a4ef35f8e50137a345",
+		"month": "May",
+		"camp": "Lemaci",
+		"country": "Tanzania",
+		"school": "ISCAE",
+		"lessons": 230
+	},
+	{
+		"id": "620af3a47ae1883123303a7f",
+		"month": "Feb",
+		"camp": "Kakuma",
+		"country": "Egypt",
+		"school": "Kakuma Secondary",
+		"lessons": 195
+	},
+	{
+		"id": "620af3a42dd5b41fafec4eeb",
+		"month": "Jan",
+		"camp": "Kakuma",
+		"country": "Tunisia",
+		"school": "Greenlight",
+		"lessons": 25
+	},
+	{
+		"id": "620af3a4f39fb8fcd647e62c",
+		"month": "Aug",
+		"camp": "Lemaci",
+		"country": "Tunisia",
+		"school": "Jonathan Law High School",
+		"lessons": 75
+	},
+	{
+		"id": "620af3a400c7ef41b72142fa",
+		"month": "Jun",
+		"camp": "Sebuna",
+		"country": "Kenya",
+		"school": "Sebun CLASSIC",
+		"lessons": 245
+	},
+	{
+		"id": "620af3a4ab2608ed2c158164",
+		"month": "Jul",
+		"camp": "Kakuma",
+		"country": "Egypt",
+		"school": "Kakuma Secondary",
+		"lessons": 120
+	},
+	{
+		"id": "620af3a4e631df8e4baf9988",
+		"month": "Aug",
+		"camp": "Kakuma",
+		"country": "Kenya",
+		"school": "Jolie Boarding School",
+		"lessons": 140
+	},
+	{
+		"id": "620af3a45427071b496ca6e3",
+		"month": "Nov",
+		"camp": "Kakuma",
+		"country": "Tunisia",
+		"school": "Greenlight",
+		"lessons": 25
+	},
+	{
+		"id": "620af3a4253866eff1291e97",
+		"month": "Sep",
+		"camp": "Sebuna",
+		"country": "Egypt",
+		"school": "Sebun CLASSIC",
+		"lessons": 40
+	},
+	{
+		"id": "620af3a43f769f1be2e9cfa6",
+		"month": "May",
+		"camp": "Kakuma",
+		"country": "Egypt",
+		"school": "Morneau Shepell",
+		"lessons": 30
+	},
+	{
+		"id": "620af3a45a55969c284b8c62",
+		"month": "Jun",
+		"camp": "Kakuma",
+		"country": "Egypt",
+		"school": "Jolie Boarding School",
+		"lessons": 80
+	},
+	{
+		"id": "620af3a4a14551da01d70a67",
+		"month": "Apr",
+		"camp": "Kakuma",
+		"country": "Tunisia",
+		"school": "Greenlight",
+		"lessons": 65
+	},
+	{
+		"id": "620af3a4ce3a706b93a25853",
+		"month": "Oct",
+		"camp": "Omaka",
+		"country": "Tanzania",
+		"school": "Omaka Secondary",
+		"lessons": 30
+	},
+	{
+		"id": "620af3a446e2084048e69bf5",
+		"month": "Jun",
+		"camp": "Omaka",
+		"country": "Egypt",
+		"school": "Te Kupenga Preschool",
+		"lessons": 110
+	},
+	{
+		"id": "620af3a46b4c35a7c112d44b",
+		"month": "Feb",
+		"camp": "Lemaci",
+		"country": "Kenya",
+		"school": "Columbia Law School",
+		"lessons": 100
+	},
+	{
+		"id": "620af3a4ee5e659f60fc4b07",
+		"month": "Nov",
+		"camp": "Omaka",
+		"country": "Tunisia",
+		"school": "Te Kupenga Preschool",
+		"lessons": 10
+	},
+	{
+		"id": "620af3a43e204c27a42faec7",
+		"month": "Jan",
+		"camp": "Omaka",
+		"country": "Egypt",
+		"school": "Burke High School",
+		"lessons": 215
+	},
+	{
+		"id": "620af3a45428200fd24cc0a7",
+		"month": "Jul",
+		"camp": "Sebuna",
+		"country": "Tunisia",
+		"school": "Associazione Nautica Sebina",
+		"lessons": 100
+	},
+	{
+		"id": "620af3a44690821903290b92",
+		"month": "Jul",
+		"camp": "Lemaci",
+		"country": "Kenya",
+		"school": "ISCAE",
+		"lessons": 220
+	},
+	{
+		"id": "620af3a4268b0699deecd04d",
+		"month": "Sep",
+		"camp": "Sebuna",
+		"country": "Tunisia",
+		"school": "Kebalepile High School",
+		"lessons": 75
+	},
+	{
+		"id": "620af3a497e8a4893d52efbf",
+		"month": "Nov",
+		"camp": "Kakuma",
+		"country": "Tunisia",
+		"school": "Morneau Shepell",
+		"lessons": 80
+	},
+	{
+		"id": "620af3a47a5ba9c5fad1afb0",
+		"month": "Dec",
+		"camp": "Omaka",
+		"country": "Kenya",
+		"school": "Burke High School",
+		"lessons": 10
+	},
+	{
+		"id": "620af3a4e42205ebecf4e676",
+		"month": "Oct",
+		"camp": "Kakuma",
+		"country": "Kenya",
+		"school": "Kakuma Secondary",
+		"lessons": 205
+	},
+	{
+		"id": "620af3a4904e4162a6616927",
+		"month": "Feb",
+		"camp": "Lemaci",
+		"country": "Tanzania",
+		"school": "Management School ESSCA",
+		"lessons": 165
+	},
+	{
+		"id": "620af3a405aecbfc13118eae",
+		"month": "Jan",
+		"camp": "Lemaci",
+		"country": "Egypt",
+		"school": "Management School ESSCA",
+		"lessons": 245
+	},
+	{
+		"id": "620af3a4702c51883cd5e8f8",
+		"month": "Dec",
+		"camp": "Lemaci",
+		"country": "Tanzania",
+		"school": "Jonathan Law High School",
+		"lessons": 235
+	},
+	{
+		"id": "620af3a4dfd0fe47856452f9",
+		"month": "Nov",
+		"camp": "Lemaci",
+		"country": "Kenya",
+		"school": "Jonathan Law High School",
+		"lessons": 105
+	},
+	{
+		"id": "620af3a43d339c48e3e2d8c5",
+		"month": "Mar",
+		"camp": "Omaka",
+		"country": "Kenya",
+		"school": "Burke High School",
+		"lessons": 190
+	},
+	{
+		"id": "620af3a43bb34e6ee147ec85",
+		"month": "Jan",
+		"camp": "Kakuma",
+		"country": "Egypt",
+		"school": "Kakuma Secondary",
+		"lessons": 120
+	},
+	{
+		"id": "620af3a41c95d7d7f35795c4",
+		"month": "Sep",
+		"camp": "Sebuna",
+		"country": "Tunisia",
+		"school": "City Parents' School",
+		"lessons": 250
+	},
+	{
+		"id": "620af3a45cd2aa21aeb9d840",
+		"month": "Oct",
+		"camp": "Sebuna",
+		"country": "Tunisia",
+		"school": "City Parents' School",
+		"lessons": 10
+	},
+	{
+		"id": "620af3a4922f4c2b6ee6e2b6",
+		"month": "Sep",
+		"camp": "Lemaci",
+		"country": "Egypt",
+		"school": "Columbia Law School",
+		"lessons": 165
+	},
+	{
+		"id": "620af3a402534ece5fc2b1cf",
+		"month": "Jul",
+		"camp": "Sebuna",
+		"country": "Tanzania",
+		"school": "Sebun CLASSIC",
+		"lessons": 80
+	},
+	{
+		"id": "620af3a43333904a5c4344bf",
+		"month": "Jul",
+		"camp": "Sebuna",
+		"country": "Tanzania",
+		"school": "Sebun CLASSIC",
+		"lessons": 235
+	},
+	{
+		"id": "620af3a443bfe4be17f1395a",
+		"month": "Jun",
+		"camp": "Lemaci",
+		"country": "Egypt",
+		"school": "Columbia Law School",
+		"lessons": 100
+	},
+	{
+		"id": "620af3a4a6936a253c65b262",
+		"month": "Jun",
+		"camp": "Lemaci",
+		"country": "Egypt",
+		"school": "Management School ESSCA",
+		"lessons": 145
+	},
+	{
+		"id": "620af3a4b59f754dad7ba3de",
+		"month": "Jun",
+		"camp": "Kakuma",
+		"country": "Egypt",
+		"school": "Jolie Boarding School",
+		"lessons": 10
+	},
+	{
+		"id": "620af3a45e9ece415978b860",
+		"month": "Jan",
+		"camp": "Lemaci",
+		"country": "Egypt",
+		"school": "Management School ESSCA",
+		"lessons": 65
+	},
+	{
+		"id": "620af3a4244bf850efadb1f1",
+		"month": "Dec",
+		"camp": "Lemaci",
+		"country": "Tunisia",
+		"school": "ISCAE",
+		"lessons": 100
+	},
+	{
+		"id": "620af3a4afa410a821faf587",
+		"month": "Jul",
+		"camp": "Sebuna",
+		"country": "Tanzania",
+		"school": "Kebalepile High School",
+		"lessons": 245
+	},
+	{
+		"id": "620af3a4753a10207bf5f414",
+		"month": "Jul",
+		"camp": "Kakuma",
+		"country": "Egypt",
+		"school": "Morneau Shepell",
+		"lessons": 130
+	},
+	{
+		"id": "620af3a46ae16ab78f3f9e19",
+		"month": "Nov",
+		"camp": "Omaka",
+		"country": "Tanzania",
+		"school": "Te Kupenga Preschool",
+		"lessons": 150
+	},
+	{
+		"id": "620af3a4f7cfc760fccd6b42",
+		"month": "Jul",
+		"camp": "Lemaci",
+		"country": "Tunisia",
+		"school": "Jonathan Law High School",
+		"lessons": 125
+	},
+	{
+		"id": "620af3a48ed713dcbc4602ff",
+		"month": "Nov",
+		"camp": "Omaka",
+		"country": "Kenya",
+		"school": "Omaka Secondary",
+		"lessons": 140
+	},
+	{
+		"id": "620af3a41047efc142d3281d",
+		"month": "May",
+		"camp": "Sebuna",
+		"country": "Tunisia",
+		"school": "Associazione Nautica Sebina",
+		"lessons": 240
+	},
+	{
+		"id": "620af3a448cc8e77538bf429",
+		"month": "Feb",
+		"camp": "Omaka",
+		"country": "Tunisia",
+		"school": "Te Kupenga Preschool",
+		"lessons": 240
+	},
+	{
+		"id": "620af3a451907078dd234867",
+		"month": "Oct",
+		"camp": "Kakuma",
+		"country": "Egypt",
+		"school": "Jolie Boarding School",
+		"lessons": 165
+	},
+	{
+		"id": "620af3a45733ede381864a9f",
+		"month": "Nov",
+		"camp": "Sebuna",
+		"country": "Kenya",
+		"school": "Sebun CLASSIC",
+		"lessons": 30
+	},
+	{
+		"id": "620af3a4ce54e38318207dff",
+		"month": "Jul",
+		"camp": "Omaka",
+		"country": "Tanzania",
+		"school": "Te Kupenga Preschool",
+		"lessons": 120
+	},
+	{
+		"id": "620af3a49369f07062e0685c",
+		"month": "Jun",
+		"camp": "Lemaci",
+		"country": "Tanzania",
+		"school": "Management School ESSCA",
+		"lessons": 175
+	},
+	{
+		"id": "620af3a449ccfb1bfcf0ba54",
+		"month": "Dec",
+		"camp": "Sebuna",
+		"country": "Egypt",
+		"school": "Sebun CLASSIC",
+		"lessons": 10
+	},
+	{
+		"id": "620af3a4c030bb00f60e8d07",
+		"month": "Jun",
+		"camp": "Kakuma",
+		"country": "Tunisia",
+		"school": "Morneau Shepell",
+		"lessons": 130
+	},
+	{
+		"id": "620af3a4169de90fed99be19",
+		"month": "Jun",
+		"camp": "Kakuma",
+		"country": "Tunisia",
+		"school": "Jolie Boarding School",
+		"lessons": 215
+	},
+	{
+		"id": "620af3a40de26c09b38cbb3d",
+		"month": "Apr",
+		"camp": "Sebuna",
+		"country": "Kenya",
+		"school": "City Parents' School",
+		"lessons": 135
+	},
+	{
+		"id": "620af3a4e7b5b5fb61d73e49",
+		"month": "Jun",
+		"camp": "Omaka",
+		"country": "Egypt",
+		"school": "Omaka Secondary",
+		"lessons": 145
+	},
+	{
+		"id": "620af3a42652825f00c80f6e",
+		"month": "Jan",
+		"camp": "Sebuna",
+		"country": "Tunisia",
+		"school": "Kebalepile High School",
+		"lessons": 35
+	},
+	{
+		"id": "620af3a4cf906d488883b3a8",
+		"month": "May",
+		"camp": "Sebuna",
+		"country": "Tanzania",
+		"school": "Sebun CLASSIC",
+		"lessons": 80
+	},
+	{
+		"id": "620af3a48947a81e217b3b48",
+		"month": "Jul",
+		"camp": "Omaka",
+		"country": "Tunisia",
+		"school": "Te Kupenga Preschool",
+		"lessons": 190
+	},
+	{
+		"id": "620af3a4308516dc764b5314",
+		"month": "Jan",
+		"camp": "Lemaci",
+		"country": "Egypt",
+		"school": "Management School ESSCA",
+		"lessons": 125
+	},
+	{
+		"id": "620af3a4718c8cae0ddb1da2",
+		"month": "Nov",
+		"camp": "Lemaci",
+		"country": "Kenya",
+		"school": "Jonathan Law High School",
+		"lessons": 75
+	},
+	{
+		"id": "620af3a43cd4e7521cf463f8",
+		"month": "Jun",
+		"camp": "Omaka",
+		"country": "Kenya",
+		"school": "Burke High School",
+		"lessons": 220
+	},
+	{
+		"id": "620af3a4414dac291fbffa7e",
+		"month": "May",
+		"camp": "Kakuma",
+		"country": "Tunisia",
+		"school": "Greenlight",
+		"lessons": 65
+	},
+	{
+		"id": "620af3a4a8d20902562d8ee2",
+		"month": "May",
+		"camp": "Lemaci",
+		"country": "Tanzania",
+		"school": "ISCAE",
+		"lessons": 205
+	},
+	{
+		"id": "620af3a47172f2ad294b7ab9",
+		"month": "Mar",
+		"camp": "Omaka",
+		"country": "Kenya",
+		"school": "Omaka Secondary",
+		"lessons": 120
+	},
+	{
+		"id": "620af3a413081a0f9be53c55",
+		"month": "Oct",
+		"camp": "Omaka",
+		"country": "Egypt",
+		"school": "Omaka Secondary",
+		"lessons": 245
+	},
+	{
+		"id": "620af3a460e379f6d6694de7",
+		"month": "Oct",
+		"camp": "Omaka",
+		"country": "Tunisia",
+		"school": "Omaka Secondary",
+		"lessons": 110
+	},
+	{
+		"id": "620af3a47a31b74c00ae20ef",
+		"month": "Aug",
+		"camp": "Kakuma",
+		"country": "Kenya",
+		"school": "Morneau Shepell",
+		"lessons": 185
+	},
+	{
+		"id": "620af3a416c62a359af9a5a4",
+		"month": "Dec",
+		"camp": "Lemaci",
+		"country": "Egypt",
+		"school": "ISCAE",
+		"lessons": 85
+	},
+	{
+		"id": "620af3a4feac9b4950ac8556",
+		"month": "Apr",
+		"camp": "Kakuma",
+		"country": "Tanzania",
+		"school": "Jolie Boarding School",
+		"lessons": 35
+	},
+	{
+		"id": "620af3a41fb5e4b5a3a0a756",
+		"month": "Jul",
+		"camp": "Kakuma",
+		"country": "Tunisia",
+		"school": "Jolie Boarding School",
+		"lessons": 40
+	},
+	{
+		"id": "620af3a4a382a8a71a53a8ce",
+		"month": "Jan",
+		"camp": "Sebuna",
+		"country": "Tanzania",
+		"school": "Associazione Nautica Sebina",
+		"lessons": 120
+	},
+	{
+		"id": "620af3a409b181e90b7f838f",
+		"month": "May",
+		"camp": "Kakuma",
+		"country": "Kenya",
+		"school": "Morneau Shepell",
+		"lessons": 180
+	},
+	{
+		"id": "620af3a4f16949f42db8aaf8",
+		"month": "Sep",
+		"camp": "Sebuna",
+		"country": "Kenya",
+		"school": "Associazione Nautica Sebina",
+		"lessons": 100
+	},
+	{
+		"id": "620af3a44d6f84af396c8be2",
+		"month": "Dec",
+		"camp": "Lemaci",
+		"country": "Egypt",
+		"school": "Management School ESSCA",
+		"lessons": 200
+	},
+	{
+		"id": "620af3a4f26a68aa0889f35c",
+		"month": "Mar",
+		"camp": "Lemaci",
+		"country": "Kenya",
+		"school": "ISCAE",
+		"lessons": 160
+	},
+	{
+		"id": "620af3a46a5a9bf7af3dc400",
+		"month": "Dec",
+		"camp": "Sebuna",
+		"country": "Egypt",
+		"school": "Kebalepile High School",
+		"lessons": 155
+	},
+	{
+		"id": "620af3a40ed52e0e777a621b",
+		"month": "Jan",
+		"camp": "Kakuma",
+		"country": "Egypt",
+		"school": "Greenlight",
+		"lessons": 225
+	},
+	{
+		"id": "620af3a4a774d3809c2bbbb9",
+		"month": "Aug",
+		"camp": "Sebuna",
+		"country": "Tunisia",
+		"school": "Sebun CLASSIC",
+		"lessons": 55
+	},
+	{
+		"id": "620af3a45e568e95762c07ad",
+		"month": "Dec",
+		"camp": "Kakuma",
+		"country": "Tunisia",
+		"school": "Greenlight",
+		"lessons": 115
+	},
+	{
+		"id": "620af3a4a67a99f374444f2e",
+		"month": "Jan",
+		"camp": "Kakuma",
+		"country": "Kenya",
+		"school": "Greenlight",
+		"lessons": 175
+	},
+	{
+		"id": "620af3a42abbe2b8b840f292",
+		"month": "Jan",
+		"camp": "Sebuna",
+		"country": "Egypt",
+		"school": "Kebalepile High School",
+		"lessons": 85
+	},
+	{
+		"id": "620af3a4bb152acd85d4461d",
+		"month": "Aug",
+		"camp": "Kakuma",
+		"country": "Tanzania",
+		"school": "Jolie Boarding School",
+		"lessons": 45
+	},
+	{
+		"id": "620af3a496f10558a61390b9",
+		"month": "Nov",
+		"camp": "Omaka",
+		"country": "Tunisia",
+		"school": "Te Kupenga Preschool",
+		"lessons": 170
+	},
+	{
+		"id": "620af3a46baeb75879a3daaa",
+		"month": "Sep",
+		"camp": "Sebuna",
+		"country": "Tunisia",
+		"school": "Sebun CLASSIC",
+		"lessons": 85
+	},
+	{
+		"id": "620af3a4f7929c4b63d780b6",
+		"month": "Apr",
+		"camp": "Kakuma",
+		"country": "Tunisia",
+		"school": "Morneau Shepell",
+		"lessons": 160
+	},
+	{
+		"id": "620af3a442bab96db16d42b1",
+		"month": "Mar",
+		"camp": "Omaka",
+		"country": "Kenya",
+		"school": "Omaka Secondary",
+		"lessons": 70
+	},
+	{
+		"id": "620af3a4b901ed56414d4a58",
+		"month": "Apr",
+		"camp": "Lemaci",
+		"country": "Tanzania",
+		"school": "ISCAE",
+		"lessons": 50
+	},
+	{
+		"id": "620af3a4199c2847e5265e18",
+		"month": "Mar",
+		"camp": "Lemaci",
+		"country": "Egypt",
+		"school": "Management School ESSCA",
+		"lessons": 230
+	},
+	{
+		"id": "620af3a46d733eba446dff2b",
+		"month": "Jul",
+		"camp": "Kakuma",
+		"country": "Kenya",
+		"school": "Greenlight",
+		"lessons": 65
+	},
+	{
+		"id": "620af3a4768a5fb70fdabd8f",
+		"month": "Aug",
+		"camp": "Omaka",
+		"country": "Kenya",
+		"school": "Te Kupenga Preschool",
+		"lessons": 100
+	},
+	{
+		"id": "620af3a4cbc1caf8269a24c0",
+		"month": "Dec",
+		"camp": "Sebuna",
+		"country": "Kenya",
+		"school": "Associazione Nautica Sebina",
+		"lessons": 210
+	},
+	{
+		"id": "620af3a462adc82ac92c102d",
+		"month": "May",
+		"camp": "Sebuna",
+		"country": "Egypt",
+		"school": "City Parents' School",
+		"lessons": 145
+	},
+	{
+		"id": "620af3a4afae789221d1ea1a",
+		"month": "Apr",
+		"camp": "Lemaci",
+		"country": "Tanzania",
+		"school": "Columbia Law School",
+		"lessons": 50
+	},
+	{
+		"id": "620af3a4f7b5959a5c870c1c",
+		"month": "Feb",
+		"camp": "Kakuma",
+		"country": "Kenya",
+		"school": "Jolie Boarding School",
+		"lessons": 95
+	},
+	{
+		"id": "620af3a4a6c5579a408e8988",
+		"month": "Feb",
+		"camp": "Omaka",
+		"country": "Kenya",
+		"school": "Omaka Secondary",
+		"lessons": 245
+	},
+	{
+		"id": "620af3a47d9df475f19aedba",
+		"month": "Mar",
+		"camp": "Sebuna",
+		"country": "Kenya",
+		"school": "City Parents' School",
+		"lessons": 115
+	},
+	{
+		"id": "620af3a43bca51c400564df7",
+		"month": "Apr",
+		"camp": "Sebuna",
+		"country": "Kenya",
+		"school": "Kebalepile High School",
+		"lessons": 70
+	},
+	{
+		"id": "620af3a419511d56c9dd3129",
+		"month": "Jun",
+		"camp": "Kakuma",
+		"country": "Tanzania",
+		"school": "Kakuma Secondary",
+		"lessons": 215
+	},
+	{
+		"id": "620af3a41218d635e61eaabf",
+		"month": "Jan",
+		"camp": "Sebuna",
+		"country": "Egypt",
+		"school": "Kebalepile High School",
+		"lessons": 25
+	},
+	{
+		"id": "620af3a4ea13a5aaa36d4536",
+		"month": "Jun",
+		"camp": "Lemaci",
+		"country": "Tanzania",
+		"school": "Columbia Law School",
+		"lessons": 160
+	},
+	{
+		"id": "620af3a400a8eb8c25d976d2",
+		"month": "Oct",
+		"camp": "Sebuna",
+		"country": "Kenya",
+		"school": "Kebalepile High School",
+		"lessons": 215
+	},
+	{
+		"id": "620af3a498b4a0abc2ed49f8",
+		"month": "Feb",
+		"camp": "Lemaci",
+		"country": "Tunisia",
+		"school": "ISCAE",
+		"lessons": 205
+	},
+	{
+		"id": "620af3a488b557548477ec68",
+		"month": "Sep",
+		"camp": "Lemaci",
+		"country": "Tanzania",
+		"school": "Jonathan Law High School",
+		"lessons": 165
+	},
+	{
+		"id": "620af3a4b54982b156832245",
+		"month": "Aug",
+		"camp": "Omaka",
+		"country": "Tanzania",
+		"school": "Omaka Secondary",
+		"lessons": 35
+	},
+	{
+		"id": "620af3a4deb01f4ad68f9b72",
+		"month": "Aug",
+		"camp": "Kakuma",
+		"country": "Egypt",
+		"school": "Jolie Boarding School",
+		"lessons": 60
+	},
+	{
+		"id": "620af3a4c44a62680d070b90",
+		"month": "Dec",
+		"camp": "Lemaci",
+		"country": "Tunisia",
+		"school": "Columbia Law School",
+		"lessons": 40
+	},
+	{
+		"id": "620af3a42940d51d0c87811d",
+		"month": "Apr",
+		"camp": "Omaka",
+		"country": "Egypt",
+		"school": "Burke High School",
+		"lessons": 90
+	},
+	{
+		"id": "620af3a46e51951ea259b0ab",
+		"month": "Mar",
+		"camp": "Sebuna",
+		"country": "Tunisia",
+		"school": "City Parents' School",
+		"lessons": 215
+	},
+	{
+		"id": "620af3a456b7449be63d7198",
+		"month": "Jun",
+		"camp": "Lemaci",
+		"country": "Tunisia",
+		"school": "ISCAE",
+		"lessons": 45
+	},
+	{
+		"id": "620af3a4d9a7597a2e4497e2",
+		"month": "Aug",
+		"camp": "Sebuna",
+		"country": "Tanzania",
+		"school": "City Parents' School",
+		"lessons": 20
+	},
+	{
+		"id": "620af3a4d562dfe97726d177",
+		"month": "Aug",
+		"camp": "Lemaci",
+		"country": "Tunisia",
+		"school": "ISCAE",
+		"lessons": 85
+	},
+	{
+		"id": "620af3a4fe10e64db0dd5d57",
+		"month": "Apr",
+		"camp": "Lemaci",
+		"country": "Kenya",
+		"school": "Jonathan Law High School",
+		"lessons": 80
+	},
+	{
+		"id": "620af3a482c20047e2a8a629",
+		"month": "May",
+		"camp": "Sebuna",
+		"country": "Tanzania",
+		"school": "Sebun CLASSIC",
+		"lessons": 80
+	},
+	{
+		"id": "620af3a4c57dd256fb83ec0b",
+		"month": "Oct",
+		"camp": "Kakuma",
+		"country": "Egypt",
+		"school": "Greenlight",
+		"lessons": 235
+	},
+	{
+		"id": "620af3a422d0495e772912d7",
+		"month": "Jul",
+		"camp": "Lemaci",
+		"country": "Egypt",
+		"school": "Management School ESSCA",
+		"lessons": 20
+	},
+	{
+		"id": "620af3a4d71584dc46bfaaa2",
+		"month": "Jan",
+		"camp": "Lemaci",
+		"country": "Kenya",
+		"school": "Management School ESSCA",
+		"lessons": 130
+	},
+	{
+		"id": "620af3a4af9c29801bb9351d",
+		"month": "Mar",
+		"camp": "Lemaci",
+		"country": "Tunisia",
+		"school": "ISCAE",
+		"lessons": 50
+	},
+	{
+		"id": "620af3a4e6eb33bce8031e42",
+		"month": "Jan",
+		"camp": "Sebuna",
+		"country": "Kenya",
+		"school": "City Parents' School",
+		"lessons": 65
+	},
+	{
+		"id": "620af3a4d397943b54cf4ff6",
+		"month": "Feb",
+		"camp": "Kakuma",
+		"country": "Egypt",
+		"school": "Jolie Boarding School",
+		"lessons": 35
+	},
+	{
+		"id": "620af3a4d57d7b5833330f92",
+		"month": "Dec",
+		"camp": "Lemaci",
+		"country": "Kenya",
+		"school": "Management School ESSCA",
+		"lessons": 50
+	},
+	{
+		"id": "620af3a4fc608ada6a1eec07",
+		"month": "May",
+		"camp": "Lemaci",
+		"country": "Egypt",
+		"school": "ISCAE",
+		"lessons": 95
+	},
+	{
+		"id": "620af3a4d5807909314e92c2",
+		"month": "Feb",
+		"camp": "Omaka",
+		"country": "Tanzania",
+		"school": "Omaka Secondary",
+		"lessons": 15
+	},
+	{
+		"id": "620af3a4d5ce1b899adabce2",
+		"month": "Dec",
+		"camp": "Omaka",
+		"country": "Tanzania",
+		"school": "Rapaura School",
+		"lessons": 20
+	},
+	{
+		"id": "620af3a4425a527e153dd807",
+		"month": "May",
+		"camp": "Lemaci",
+		"country": "Egypt",
+		"school": "Columbia Law School",
+		"lessons": 110
+	},
+	{
+		"id": "620af3a4ad7200ff93619224",
+		"month": "Jul",
+		"camp": "Sebuna",
+		"country": "Tanzania",
+		"school": "Kebalepile High School",
+		"lessons": 25
+	},
+	{
+		"id": "620af3a476d78ddd70c22984",
+		"month": "Sep",
+		"camp": "Sebuna",
+		"country": "Egypt",
+		"school": "Kebalepile High School",
+		"lessons": 10
+	},
+	{
+		"id": "620af3a4418039e0fcde5b86",
+		"month": "Sep",
+		"camp": "Kakuma",
+		"country": "Tunisia",
+		"school": "Morneau Shepell",
+		"lessons": 105
+	},
+	{
+		"id": "620af3a4ffee92d88651fd32",
+		"month": "Oct",
+		"camp": "Lemaci",
+		"country": "Kenya",
+		"school": "Jonathan Law High School",
+		"lessons": 185
+	},
+	{
+		"id": "620af3a40df31b8e8180cd85",
+		"month": "Nov",
+		"camp": "Omaka",
+		"country": "Kenya",
+		"school": "Rapaura School",
+		"lessons": 100
+	},
+	{
+		"id": "620af3a4c7e6a2e7f7db02ff",
+		"month": "May",
+		"camp": "Sebuna",
+		"country": "Egypt",
+		"school": "Sebun CLASSIC",
+		"lessons": 15
+	},
+	{
+		"id": "620af3a4bf6c3f012a4f8351",
+		"month": "Jun",
+		"camp": "Kakuma",
+		"country": "Tanzania",
+		"school": "Morneau Shepell",
+		"lessons": 210
+	},
+	{
+		"id": "620af3a4039d29e6308782fd",
+		"month": "Jul",
+		"camp": "Sebuna",
+		"country": "Tunisia",
+		"school": "Associazione Nautica Sebina",
+		"lessons": 45
+	},
+	{
+		"id": "620af3a48178b2ab98a7fbda",
+		"month": "Sep",
+		"camp": "Lemaci",
+		"country": "Tanzania",
+		"school": "ISCAE",
+		"lessons": 185
+	},
+	{
+		"id": "620af3a42209492b4e08d1ca",
+		"month": "Nov",
+		"camp": "Lemaci",
+		"country": "Tanzania",
+		"school": "Management School ESSCA",
+		"lessons": 125
+	},
+	{
+		"id": "620af3a493edbe139acb751f",
+		"month": "Sep",
+		"camp": "Lemaci",
+		"country": "Egypt",
+		"school": "Management School ESSCA",
+		"lessons": 80
+	},
+	{
+		"id": "620af3a416ce88d5cc3b3f5a",
+		"month": "Apr",
+		"camp": "Lemaci",
+		"country": "Tanzania",
+		"school": "Management School ESSCA",
+		"lessons": 90
+	},
+	{
+		"id": "620af3a416236196ec7490b4",
+		"month": "Aug",
+		"camp": "Sebuna",
+		"country": "Kenya",
+		"school": "Sebun CLASSIC",
+		"lessons": 15
+	},
+	{
+		"id": "620af3a46ceb2975a25b8f27",
+		"month": "Jun",
+		"camp": "Sebuna",
+		"country": "Kenya",
+		"school": "Sebun CLASSIC",
+		"lessons": 165
+	},
+	{
+		"id": "620af3a4be76e7b133beae45",
+		"month": "Oct",
+		"camp": "Lemaci",
+		"country": "Tanzania",
+		"school": "ISCAE",
+		"lessons": 155
+	},
+	{
+		"id": "620af3a4a7fac87d02a2e60a",
+		"month": "Apr",
+		"camp": "Sebuna",
+		"country": "Tanzania",
+		"school": "Sebun CLASSIC",
+		"lessons": 200
+	},
+	{
+		"id": "620af3a4e81fdf997c4742f1",
+		"month": "Apr",
+		"camp": "Omaka",
+		"country": "Kenya",
+		"school": "Rapaura School",
+		"lessons": 235
+	},
+	{
+		"id": "620af3a4a97b592eed6b33b4",
+		"month": "Nov",
+		"camp": "Lemaci",
+		"country": "Egypt",
+		"school": "Columbia Law School",
+		"lessons": 250
+	},
+	{
+		"id": "620af3a46de6e350d90b76f0",
+		"month": "Mar",
+		"camp": "Kakuma",
+		"country": "Tunisia",
+		"school": "Jolie Boarding School",
+		"lessons": 115
+	},
+	{
+		"id": "620af3a45bd0444ba98e3e47",
+		"month": "May",
+		"camp": "Lemaci",
+		"country": "Tunisia",
+		"school": "Columbia Law School",
+		"lessons": 115
+	},
+	{
+		"id": "620af3a439b7c57a122b2e6a",
+		"month": "Nov",
+		"camp": "Kakuma",
+		"country": "Egypt",
+		"school": "Jolie Boarding School",
+		"lessons": 235
+	},
+	{
+		"id": "620af3a48263bc21019ec828",
+		"month": "Feb",
+		"camp": "Kakuma",
+		"country": "Tanzania",
+		"school": "Greenlight",
+		"lessons": 250
+	},
+	{
+		"id": "620af3a4f9470d9b9c4758ce",
+		"month": "Jun",
+		"camp": "Lemaci",
+		"country": "Kenya",
+		"school": "Jonathan Law High School",
+		"lessons": 175
+	},
+	{
+		"id": "620af3a43c9e73accbf16d73",
+		"month": "Feb",
+		"camp": "Lemaci",
+		"country": "Tunisia",
+		"school": "Jonathan Law High School",
+		"lessons": 75
+	},
+	{
+		"id": "620af3a4ab5569e6cd30efed",
+		"month": "Jun",
+		"camp": "Lemaci",
+		"country": "Kenya",
+		"school": "Columbia Law School",
+		"lessons": 10
+	},
+	{
+		"id": "620af3a49b5beed6e0e46050",
+		"month": "Aug",
+		"camp": "Kakuma",
+		"country": "Kenya",
+		"school": "Greenlight",
+		"lessons": 25
+	},
+	{
+		"id": "620af3a46c6ffea9e9c13e4d",
+		"month": "Aug",
+		"camp": "Lemaci",
+		"country": "Egypt",
+		"school": "ISCAE",
+		"lessons": 160
+	},
+	{
+		"id": "620af3a4c090eb8c5ba73507",
+		"month": "Feb",
+		"camp": "Sebuna",
+		"country": "Tunisia",
+		"school": "Associazione Nautica Sebina",
+		"lessons": 60
+	},
+	{
+		"id": "620af3a40c9eaf5bbd8398da",
+		"month": "Jan",
+		"camp": "Kakuma",
+		"country": "Tunisia",
+		"school": "Greenlight",
+		"lessons": 190
+	},
+	{
+		"id": "620af3a4ced0aef1795453a7",
+		"month": "Jun",
+		"camp": "Omaka",
+		"country": "Tanzania",
+		"school": "Burke High School",
+		"lessons": 165
+	},
+	{
+		"id": "620af3a4cde229a3e92961c7",
+		"month": "Aug",
+		"camp": "Lemaci",
+		"country": "Tunisia",
+		"school": "ISCAE",
+		"lessons": 50
+	},
+	{
+		"id": "620af3a44d892036db382054",
+		"month": "Sep",
+		"camp": "Omaka",
+		"country": "Egypt",
+		"school": "Rapaura School",
+		"lessons": 30
+	},
+	{
+		"id": "620af3a46eaea27ed7d83d9c",
+		"month": "Nov",
+		"camp": "Omaka",
+		"country": "Tanzania",
+		"school": "Te Kupenga Preschool",
+		"lessons": 20
+	},
+	{
+		"id": "620af3a4cbd1ae3c7fb76f7e",
+		"month": "Mar",
+		"camp": "Sebuna",
+		"country": "Kenya",
+		"school": "Sebun CLASSIC",
+		"lessons": 135
+	},
+	{
+		"id": "620af3a41b27ce5aa77ec09b",
+		"month": "May",
+		"camp": "Kakuma",
+		"country": "Kenya",
+		"school": "Morneau Shepell",
+		"lessons": 205
+	},
+	{
+		"id": "620af3a4d776e775ad031b80",
+		"month": "Apr",
+		"camp": "Sebuna",
+		"country": "Tanzania",
+		"school": "City Parents' School",
+		"lessons": 155
+	},
+	{
+		"id": "620af3a40b260353fac7adef",
+		"month": "Nov",
+		"camp": "Lemaci",
+		"country": "Tunisia",
+		"school": "Columbia Law School",
+		"lessons": 60
+	},
+	{
+		"id": "620af3a4f46fd1b785b25bd8",
+		"month": "Dec",
+		"camp": "Sebuna",
+		"country": "Kenya",
+		"school": "City Parents' School",
+		"lessons": 115
+	},
+	{
+		"id": "620af3a4aba747532ce52a7e",
+		"month": "Oct",
+		"camp": "Kakuma",
+		"country": "Egypt",
+		"school": "Greenlight",
+		"lessons": 30
+	},
+	{
+		"id": "620af3a45c1c97feea81dcdc",
+		"month": "Oct",
+		"camp": "Kakuma",
+		"country": "Tunisia",
+		"school": "Greenlight",
+		"lessons": 145
+	},
+	{
+		"id": "620af3a4f7face14a1889136",
+		"month": "Jul",
+		"camp": "Kakuma",
+		"country": "Egypt",
+		"school": "Greenlight",
+		"lessons": 245
+	},
+	{
+		"id": "620af3a4e114c64bcf36459c",
+		"month": "Apr",
+		"camp": "Kakuma",
+		"country": "Tunisia",
+		"school": "Kakuma Secondary",
+		"lessons": 235
+	},
+	{
+		"id": "620af3a4b4b06b41439250c2",
+		"month": "Mar",
+		"camp": "Sebuna",
+		"country": "Egypt",
+		"school": "City Parents' School",
+		"lessons": 135
+	},
+	{
+		"id": "620af3a42e5dd6357db7b60d",
+		"month": "Jun",
+		"camp": "Lemaci",
+		"country": "Tunisia",
+		"school": "Columbia Law School",
+		"lessons": 10
+	},
+	{
+		"id": "620af3a40dca10f2707777f1",
+		"month": "Jun",
+		"camp": "Lemaci",
+		"country": "Kenya",
+		"school": "Columbia Law School",
+		"lessons": 35
+	},
+	{
+		"id": "620af3a41991070463090bea",
+		"month": "Dec",
+		"camp": "Omaka",
+		"country": "Kenya",
+		"school": "Rapaura School",
+		"lessons": 220
+	},
+	{
+		"id": "620af3a41aea68f6d015b860",
+		"month": "Nov",
+		"camp": "Kakuma",
+		"country": "Tanzania",
+		"school": "Greenlight",
+		"lessons": 115
+	},
+	{
+		"id": "620af3a425eff74562637aa5",
+		"month": "May",
+		"camp": "Sebuna",
+		"country": "Kenya",
+		"school": "Kebalepile High School",
+		"lessons": 35
+	},
+	{
+		"id": "620af3a4fe7ce259516ab759",
+		"month": "Aug",
+		"camp": "Kakuma",
+		"country": "Tunisia",
+		"school": "Greenlight",
+		"lessons": 50
+	},
+	{
+		"id": "620af3a43b398a00ba35b9a1",
+		"month": "Jul",
+		"camp": "Kakuma",
+		"country": "Tanzania",
+		"school": "Greenlight",
+		"lessons": 40
+	},
+	{
+		"id": "620af3a436779a6d6dfaf97b",
+		"month": "Jan",
+		"camp": "Lemaci",
+		"country": "Kenya",
+		"school": "ISCAE",
+		"lessons": 55
+	},
+	{
+		"id": "620af3a421dee7b5bd229041",
+		"month": "Dec",
+		"camp": "Sebuna",
+		"country": "Kenya",
+		"school": "Kebalepile High School",
+		"lessons": 180
+	},
+	{
+		"id": "620af3a46549394505ced3f0",
+		"month": "Nov",
+		"camp": "Omaka",
+		"country": "Egypt",
+		"school": "Burke High School",
+		"lessons": 140
+	},
+	{
+		"id": "620af3a4c66bae0e0b64ded1",
+		"month": "Jun",
+		"camp": "Kakuma",
+		"country": "Egypt",
+		"school": "Kakuma Secondary",
+		"lessons": 145
+	},
+	{
+		"id": "620af3a4d2b9373be524419e",
+		"month": "May",
+		"camp": "Omaka",
+		"country": "Tanzania",
+		"school": "Burke High School",
+		"lessons": 210
+	},
+	{
+		"id": "620af3a44181436e4c851fa7",
+		"month": "Dec",
+		"camp": "Sebuna",
+		"country": "Tunisia",
+		"school": "Kebalepile High School",
+		"lessons": 25
+	}
+]

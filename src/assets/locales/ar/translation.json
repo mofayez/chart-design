@@ -1,0 +1,17 @@
+{
+    "mainHeader": {
+        "label": "رسم تحليلى"
+    },
+    "numLessons": {
+        "label": "عدد الدروس"
+    },
+    "selectCountry": {
+        "label": "اختر الدوله"
+    },
+    "selectCamp": {
+        "label": "اختر الكامب"
+    },
+    "selectSchool": {
+        "label": "اختر المدرسه"
+    }
+}

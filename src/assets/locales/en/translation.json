@@ -1,0 +1,23 @@
+{
+    "mainHeader": {
+        "label": "Analysis chart"
+    },
+    "numLessons": {
+        "label": "Number of lessons"
+    },
+    "darkMode": {
+        "label": "Dark Mode"
+    },
+    "selectCountry": {
+        "label": "Select Country"
+    },
+    "selectCamp": {
+        "label": "Select Camp"
+    },
+    "selectSchool": {
+        "label": "Select School"
+    },
+    "": {
+        "label": ""
+    }
+}

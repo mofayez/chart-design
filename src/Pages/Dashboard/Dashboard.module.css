@@ -1,0 +1,30 @@
+header {
+    margin-bottom: 70px;
+}
+
+.select-filters {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+.select-filters > div {
+    display: flex;
+    align-items: center;
+}
+
+.select-filters div label {
+    margin-right: 10px;
+}
+
+.chart-section {
+    display: grid;
+    grid-template-columns: 3fr 1fr;
+    margin-top: 60px;
+    background-color: #FFF;
+}
+
+.chart-js {
+    border-right: 1px solid #999;
+}
+
