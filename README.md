@@ -1,10 +1,10 @@
-# Kindly check the comments on code. It illustrates the logic and decissions comprehensively.
+# Kindly check the comments on the code. They illustrate the logic and decissions comprehensively.
 
 
 ## Missed points due to time and other personal & work deuties
 
 - Unit testing
-- No excellence in UX(dark mode) and localization. My provided UX specs is not accurate and also the        multi-lang.
+- No excellence in UX(dark mode) and localization. My provided UX specs is not accurate and also the multi-lang.
 
 
 ## src dir structure
