@@ -1,6 +1,49 @@
-# Getting Started with Create React App
+# Kindly check the comments on code. It illustrates the logic and decissions comprehensively.
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
+## Missed points due to time and other personal & work deuties
+
+- Unit testing
+- No excellence in UX(dark mode) and localization. My provided UX specs is not accurate and also the        multi-lang.
+
+
+## src dir structure
+- assets: till now it containes the localization files.
+- components: containes the reuable components.
+- config: contains configs and public constants for the app.
+- layouts: contains the master and separate pages layouts.
+- pages: contains the app pages to redirect to.
+- routes: contains the app routs.
+- services: contains the state management (store and slices) and the API calls.
+- utils: contains the function and utilities used accross the app.
+
+
+## The business flow.
+- Data is grapped from the API.
+- The dashboard is the main app page.
+- At the header part, a main and sub headers texts are shown. also the them and lang switch.
+- After that the data filters are shown.
+- Filteration is done by selecting county, camp, and school.
+- The first country, camp, and school are selected by default.
+- The selections controls the side school data and chart painting.
+- On the right of the screen, the total number of lessons is displayed for the selected Camp, School and Country, followed by a list of the schools with how many lessons each offers.
+- On clicking the school (in prev point), it redirects to the school datails page.
+- After coming back from the details page, the last filtering state is preserved.
+- The Chart is dynamically painted based on the selections.
+- On clicking the left icon of the school which shown in the right of charts (schools list), it toggles the school Line data on the chart.
+
+
+## used npm packages.
+- @reduxjs/toolkit
+- react-router@6
+- react-select
+- react-chartjs-2
+- react-custom-scrollbars
+- react-i18next
+- react-fontawesome
+
+
+In the project directory, you can run:
 
 ## Available Scripts
 
