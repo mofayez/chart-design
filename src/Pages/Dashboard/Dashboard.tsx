@@ -51,7 +51,9 @@ const Dashboard: React.FC<DashboardProps> = (props: DashboardProps = {}): ReactE
   // show spinner if still loading
   if (showPinner) {
     return (
-      <ClipLoader loading={showPinner} css={spinnerCustomStyle} size={250} />
+      <div data-testid="spinner">
+        <ClipLoader loading={showPinner} css={spinnerCustomStyle} size={250} />
+      </div>
     );
   }
 
@@ -64,16 +66,16 @@ const Dashboard: React.FC<DashboardProps> = (props: DashboardProps = {}): ReactE
 
   return (
     <div>
-      <Header />
+      <Header data-testid="header" />
       <section className={classes["select-filters"]}>
-        <LessonsFilter />
+        <LessonsFilter data-testid="LessonsFilter" />
       </section>
       <section className={classes["chart-section"]}>
         <div className={classes["chart-js"]}>
-          <Chart/>
+          <Chart data-testid="chart" />
         </div>
         <div>
-          <SchoolLessonList />
+          <SchoolLessonList data-testid="SchoolLessonList" />
         </div>
       </section>
     </div>

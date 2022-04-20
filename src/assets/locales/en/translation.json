@@ -8,6 +8,9 @@
     "darkMode": {
         "label": "Dark Mode"
     },
+    "ligthMode": {
+        "label": "Light Mode"
+    },
     "selectCountry": {
         "label": "Select Country"
     },

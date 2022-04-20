@@ -5,6 +5,12 @@
     "numLessons": {
         "label": "عدد الدروس"
     },
+    "darkMode": {
+        "label": "الوضع الليلى"
+    },
+    "ligthMode": {
+        "label": "الوضع النهارى"
+    },
     "selectCountry": {
         "label": "اختر الدوله"
     },

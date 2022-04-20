@@ -133,9 +133,8 @@ const LessonsFilter: React.FC<Props> = (props: Props): ReactElement => {
             dispatch(chartActions.setSelectedSchool(schools[0]));
         }
 
-    }, [dispatch, countries, camps, schools, selectedCountry, selectedCamp, selectedSchool])
+    })
     
-
     return (
         <Fragment>
             <div role="list">

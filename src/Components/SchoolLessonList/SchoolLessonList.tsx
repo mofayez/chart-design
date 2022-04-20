@@ -79,13 +79,13 @@ const SchoolLessonList: React.FC<Props> = (props: Props): ReactElement => {
     <Fragment>
       {totalNumberOfLessons !== 0 && <div className={classes['total-camp-lessons']} style={{ color: "#333" }}>
         <div>
-          <p className={classes['lessons-count']}>{totalNumberOfLessons}</p>
+          <p className={classes['lessons-count']} data-testid="totalLessonsNum">{totalNumberOfLessons}</p>
           <p className={classes['lessons']}>lessons</p>
-          <p className={classes['camp-name']}>in {selectedCamp.label}</p>
+          <p className={classes['camp-name']} data-testid="campName">in {selectedCamp.label}</p>
         </div>
       </div>}
       <Scrollbars
-        style={{ width: 300, height: 300 }}
+        style={{ width: 300, height: 500 }}
         renderTrackHorizontal={props =>
           <div
             {...props}
@@ -101,6 +101,7 @@ const SchoolLessonList: React.FC<Props> = (props: Props): ReactElement => {
                 lessonsCount={item.lessonsCount}
                 schoolName={item.schoolName}
                 themColor={item.themColor}
+                data-testid="schoolLessonItem"
               />
             ))}
         </ul>

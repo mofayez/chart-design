@@ -48,17 +48,17 @@ const Header: React.FC<Props> = (props: Props): ReactElement => {
     return (
         <header>
             <div>
-                <h1 className={classes['main-header']}>{t("mainHeader.label")}</h1>
-                <h2 className={classes['sub-header']}>{t("numLessons.label")}</h2>
+                <h1 title='mainHeader' className={classes['main-header']}>{t("mainHeader.label")}</h1>
+                <h2 title='subHeader' className={classes['sub-header']}>{t("numLessons.label")}</h2>
             </div>
             <div>
                 <label className={classes['switch']}>
-                    <span>{t("darkMode.label")}</span>
-                    <Switch checked={darkMode} onChange={handleChange} />
+                    <span>{darkMode ? t("darkMode.label") : t("ligthMode.label")}</span>
+                    <Switch checked={darkMode} onChange={handleChange} data-testid="changeTheme" />
                 </label>
                 <label className={classes['switch']}>
                     <span>{en ? 'EN' : 'العربية' } </span>
-                    <Switch checked={en} onChange={handleLangChange} />
+                    <Switch checked={en} onChange={handleLangChange} data-testid="changeLang" />
                 </label>
             </div>
         </header>

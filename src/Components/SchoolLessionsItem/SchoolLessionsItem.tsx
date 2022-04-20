@@ -13,7 +13,6 @@ export type schoolLessionsItemPropsInterface = {
     lessonsCount: number,
     schoolName: string,
     themColor: string
-    hide?: boolean
 }
 
 /**
@@ -52,12 +51,12 @@ const SchoolLessionsItem: React.FC<schoolLessionsItemPropsInterface> = (props: s
 
     return (
         <li className={classes['list-item']} style={{color: props.themColor}}>
-            <span onClick={() => toggleSchool(props.schoolName)}><FontAwesomeIcon icon={faCircleDot} className={classes[props.themColor]} /></span>
+            <span data-testid="toggleSchool" onClick={() => toggleSchool(props.schoolName)}><FontAwesomeIcon icon={faCircleDot} className={classes[props.themColor]} /></span>
             <div className={classes[props.themColor]}>
-                <p className={`${classes['lessons-count']} ${classes[props.themColor]}`}>{props.lessonsCount}</p> 
+                <p className={`${classes['lessons-count']} ${classes[props.themColor]}`} data-testid="lessonsCount">{props.lessonsCount}</p> 
                 <p className={classes['lessons']}>lessons</p>
                 <p className={classes['school-name']}>
-                    <Link to={urlPath} style={{color: props.themColor}}>in {props.schoolName}</Link>
+                    <Link to={urlPath} style={{color: props.themColor}} data-testid="schoolName">in {props.schoolName}</Link>
                 </p>
             </div>
         </li>
