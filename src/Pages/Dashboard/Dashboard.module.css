@@ -28,3 +28,7 @@ header {
     border-right: 1px solid #999;
 }
 
+.rtl {
+    direction: rtl;
+}
+

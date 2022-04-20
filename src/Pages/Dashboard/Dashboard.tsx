@@ -28,6 +28,7 @@ const Dashboard: React.FC<DashboardProps> = (props: DashboardProps = {}): ReactE
 
   const showPinner = useSelector((state: RootState) => state.ui.showSpinner)
   const serviceError = useSelector((state: RootState) => state.chart.serviceError)
+  const en: boolean = useSelector((state: RootState) => state.ui.en); // current lang
 
 
   /**
@@ -64,10 +65,12 @@ const Dashboard: React.FC<DashboardProps> = (props: DashboardProps = {}): ReactE
     );
   }
 
+  const rtl = !en ? classes.rtl : '';
+
   return (
     <div>
       <Header data-testid="header" />
-      <section className={classes["select-filters"]}>
+      <section className={`${classes["select-filters"]} ${rtl}`}>
         <LessonsFilter data-testid="LessonsFilter" />
       </section>
       <section className={classes["chart-section"]}>

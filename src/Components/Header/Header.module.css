@@ -26,3 +26,7 @@ label > span {
     align-items: center;
     margin-bottom: 10px;
 }
+
+.rtl {
+    direction: rtl;
+}

@@ -12,6 +12,10 @@ main {
     background-color: #082032;
 }
 
+.dark-mode label {
+    color: #fff;
+}
+
 
 h1 {
     margin: 0;

@@ -46,7 +46,7 @@ const Header: React.FC<Props> = (props: Props): ReactElement => {
     }
 
     return (
-        <header>
+        <header className={ !en ? classes.rtl : ''}>
             <div>
                 <h1 title='mainHeader' className={classes['main-header']}>{t("mainHeader.label")}</h1>
                 <h2 title='subHeader' className={classes['sub-header']}>{t("numLessons.label")}</h2>

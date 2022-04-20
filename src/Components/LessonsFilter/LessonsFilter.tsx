@@ -138,7 +138,7 @@ const LessonsFilter: React.FC<Props> = (props: Props): ReactElement => {
     return (
         <Fragment>
             <div role="list">
-                <label>{t("selectCountry.label")} </label>
+                <label> {t("selectCountry.label")} </label>
                 <Select
                     options={countries}
                     onChange={handleCountryChange}
@@ -147,7 +147,7 @@ const LessonsFilter: React.FC<Props> = (props: Props): ReactElement => {
                 />
             </div>
             <div role="list">
-                <label>{t("selectCamp.label")} </label>
+                <label> {t("selectCamp.label")} </label>
                 <Select
                     options={camps}
                     onChange={handleCampChange}
@@ -156,7 +156,7 @@ const LessonsFilter: React.FC<Props> = (props: Props): ReactElement => {
                 />
             </div>
             <div role="list">
-                <label>{t("selectSchool.label")} </label>
+                <label> {t("selectSchool.label")} </label>
                 <Select
                     options={schools}
                     onChange={handleSchoolChange}

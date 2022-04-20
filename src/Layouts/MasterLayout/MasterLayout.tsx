@@ -17,8 +17,10 @@ interface Props {
 const MasterLayout: React.FC<Props> = ({children}): ReactElement => {
 
     const darkMode: boolean = useSelector((state: RootState) => state.ui.darkMode);
+    const en: boolean = useSelector((state: RootState) => state.ui.en);
 
     const darkModeClass = darkMode ? classes['dark-mode'] : '';
+    document.documentElement.lang = en ? 'en' : 'ar';
 
     return (
         <main className={`${classes.default} ${darkModeClass}`}>{children}</main>
