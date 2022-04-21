@@ -81,7 +81,7 @@ const SchoolLessonList: React.FC<Props> = (props: Props): ReactElement => {
         <div>
           <p className={classes['lessons-count']} data-testid="totalLessonsNum">{totalNumberOfLessons}</p>
           <p className={classes['lessons']}>lessons</p>
-          <p className={classes['camp-name']} data-testid="campName"> in {selectedCamp.label}</p>
+          <p className={classes['camp-name']} data-testid="campName">in {selectedCamp.label}</p>
         </div>
       </div>}
       <Scrollbars

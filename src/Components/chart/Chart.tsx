@@ -1,4 +1,4 @@
-import React, { ReactElement } from 'react';
+import React, { ReactElement, useRef } from 'react';
 
 import {
     Chart as ChartJS,
@@ -10,12 +10,13 @@ import {
     Tooltip,
     Legend,
 } from 'chart.js';
-import { Line } from 'react-chartjs-2';
+import { getElementAtEvent, Line } from 'react-chartjs-2';
 import { LessonsData } from '../../Services/API/get-schools';
 import { schoolLessionsItemPropsInterface } from '../SchoolLessionsItem/SchoolLessionsItem';
 import { useSelector } from 'react-redux';
 import { RootState } from '../../Services/store';
 import { MONTHS } from '../../Config/Config';
+import { useNavigate } from 'react-router-dom';
 
 ChartJS.register(
     CategoryScale,
@@ -65,11 +66,14 @@ const prepareDataForChart = (data: LessonsData[], schools: string[]) => {
             if (schoolMonthData) {
                 monthData = schoolMonthData;
             } else {
+                const schoolByName = data.find((item: LessonsData) => item.school === school);
                 monthData = {
                     id: '_id' + school + month,
                     month: month,
                     school: school,
-                    lessons: 0
+                    lessons: 0,
+                    camp: schoolByName?.camp,
+                    country: schoolByName?.country
                 }
             }
 
@@ -95,6 +99,8 @@ interface Props {
  */
 const Chart: React.FC<Props> = (props: Props): ReactElement => {
 
+    const navigate = useNavigate();
+
     const filteredLessons: LessonsData[] = useSelector((state: RootState) => state.chart.filteredLessons);
     const chartHiddenSchools: string[] = useSelector((state: RootState) => state.chart.chartHiddenSchools);
     const aggregatedLessons = useSelector((state: RootState) => state.chart.aggregatedLessons);
@@ -109,21 +115,49 @@ const Chart: React.FC<Props> = (props: Props): ReactElement => {
         if (findSchool === -1) {
             const schoolData = preparedData[school] as LessonsData[];
             const values = schoolData.map(item => item.lessons as number);
+
             datasets.push({
                 label: school as string,
                 data: values,
                 backgroundColor: colors[index],
-                borderColor: colors[index]
+                borderColor: colors[index],
+                pointRadius: 10,
             });
         }
     });
     
     const data = {
         labels: MONTHS,
-        datasets: datasets,
+        datasets: datasets
     };
 
-    return <Line options={options} data={data} />;
+    const chartRef= useRef();
+    const onClick = (event: any) => {
+        const current: any = chartRef.current;
+
+        const activePoint = getElementAtEvent(current, event);
+
+        if (activePoint.length > 0) {
+            const clickedDatasetIndex = activePoint[0].datasetIndex;
+            const clickedElementindex = activePoint[0].index;
+            
+            const month = data.labels[clickedElementindex];
+            const lessonsCount = data.datasets[clickedDatasetIndex].data[clickedElementindex];
+            const schoolName = data.datasets[clickedDatasetIndex].label;     
+
+            let redirectionUrl = '/school-details/';
+            redirectionUrl += encodeURIComponent(schoolName) + '?';
+            redirectionUrl += '&country=' + preparedData[schoolName][0].country;
+            redirectionUrl += '&camp=' + preparedData[schoolName][0].camp;
+            redirectionUrl += '&monthe=' + month;
+            redirectionUrl += '&lessons=' + lessonsCount;
+
+            navigate(redirectionUrl);
+            
+        }
+    }
+
+    return <Line options={options} data={data} onClick={onClick} ref={chartRef} />;
 }
 
 export default Chart;
