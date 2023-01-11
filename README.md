@@ -1,12 +1,6 @@
 # Kindly check the comments on the code. They illustrate the logic and decissions comprehensively.
 
 
-## Missed points due to time and other personal & work deuties
-
-- Unit testing
-- No excellence in UX(dark mode) and localization. My provided UX specs is not accurate and also the multi-lang.
-
-
 ## src dir structure
 - assets: till now it containes the localization files.
 - components: containes the reuable components.
